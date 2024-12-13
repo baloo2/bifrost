@@ -2,9 +2,7 @@
 
 # Bifrost Bridge
 
-Changed sw/api version so it works with latest Hue apps:
-SW version:       1968096020
-API version:      1.68.0
+Changed sw/api versions so it works with latest Hue apps (SW: 1968096020 / API: 1.68.0)
 
 Bifrost enables you to emulate a Philips Hue Bridge to control lights, groups
 and scenes from [Zigbee2Mqtt](https://www.zigbee2mqtt.io/).
